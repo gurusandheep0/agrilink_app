@@ -1,0 +1,9 @@
+{
+  "name": "AgriLink Agricultural Services",
+  "short_name": "AgriLink",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f5ee",
+  "theme_color": "#123c2c",
+  "description": "Book trusted farm services and track every job."
+}

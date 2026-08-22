@@ -2,8 +2,6 @@
 
 AgriLink is a mobile-first React prototype that helps farmers discover trusted agricultural services, compare transparent prices, complete a booking, choose a payment method, and track the provider through job completion.
 
-The product direction is based on the [AgriLink UI/UX case-study concept](https://www.behance.net/gallery/250963129/AgriLink-Agricultural-Service-App-UIUX-Case-Study). The implementation and bundled hero photograph in this repository are original prototype assets.
-
 ## Application preview
 
 [![AgriLink responsive desktop overview](docs/screenshots/00-desktop-overview.png)](docs/screenshots/00-desktop-overview.png)
